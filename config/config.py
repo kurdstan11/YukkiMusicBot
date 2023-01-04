@@ -168,7 +168,7 @@ autoclean = []
 
 
 # Images
-START_IMG_URL = getenv("START_IMG_URL", "https://i.postimg.cc/KYRKFWWj/photo.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
